@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DeliveryTracking:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DeliveryTracking_jar</output-path>
+    <root id="archive" name="DeliveryTracking.jar">
+      <element id="module-output" name="DeliveryTracking" />
+      <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-parent:3.5.0" />
+    </root>
+  </artifact>
+</component>
